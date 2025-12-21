@@ -1,6 +1,6 @@
 # puppet-jenkins
 
-[![Build Status](https://travis-ci.org/voxpupuli/puppet-jenkins.svg?branch=master)](https://travis-ci.org/voxpupuli/puppet-jenkins)
+![Build Status](https://github.com/voxpupuli/puppet-jenkins/actions/workflows/ci.yml/badge.svg?branch=master)
 
 This is intended to be a re-usable
 [Puppet](http://www.puppetlabs.com/puppet/introduction/) module that you can
